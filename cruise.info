@@ -1,0 +1,24 @@
+name = Cruise
+description = Custom theme built by Paul Silvestri for Clinton Twp. Gratiot Cruise.
+version = 6.3
+core = 6.x
+engine = phptemplate
+
+regions[header] = Header
+regions[content_top] = Content Top
+regions[content_bottom] = Content Bottom
+regions[right] = Right
+regions[left] = Left
+regions[footer_a] = Footer A
+regions[footer_b] = Footer B
+regions[footer_c] = Footer C
+regions[footer_d] = Footer D
+regions[footer] = Footer
+regions[home_a] = Left Top Home
+regions[home_b] = Left Bottom Home
+regions[home_c] = Center Home
+regions[home_d] = Right Top Home
+regions[home_e] = Right Bottom Home
+regions[left_info] = Left Info Home
+regions[center_info] = Center Info Home
+regions[right_info] = Right Info Home

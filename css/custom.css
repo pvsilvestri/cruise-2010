@@ -1,0 +1,48 @@
+#container {
+  width: 900px;
+}
+
+#head {
+  width: 845px;
+
+#menu {
+  width: 845px;
+}
+
+#left-column {
+  margin-left: 45px;
+  width: 300px;
+}
+
+#front-top-1 {
+  width: 300px;
+
+#front-bottom-1 {
+  width: 300px;
+
+#right-column {
+  margin-right: 30px;
+}
+
+#bottom-column {
+  margin-left: 45px;
+}
+
+#footer-container {
+  width: 900px;
+}
+
+#footer-a {
+}
+
+#footer-b {
+}
+
+#footer-c {
+}
+
+#footer-d {
+}
+
+#footer {
+}
